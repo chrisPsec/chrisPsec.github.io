@@ -1,5 +1,5 @@
-### In Which I Flail About: The Blog
-##### _Collecting parts for my new engine_
+### Collecting parts for my new engine
+
 
 Here I am (currently that's near the Arctic Circle), nearly paralyzed by the impression my new professional pursuit has made upon me. Its scope is not monstrously huge, but its many small parts overwhelm me, and remind me of a broken brass [pocket watch](https://www.flickr.com/photos/perrylens/3835038045/) my father gave me years ago: layered, intricate, complex - almost too complex at first glance, but surely sense can be made of it, with time, research, and perseverance.
 
