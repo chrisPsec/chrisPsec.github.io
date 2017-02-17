@@ -1,4 +1,4 @@
-### Collecting parts for my new engine
+## Collecting parts for my new engine
 
 
 Here I am (currently that's near the Arctic Circle), nearly paralyzed by the impression my new professional pursuit has made upon me. Its scope is not monstrously huge, but its many small parts overwhelm me, and remind me of a broken brass [pocket watch](https://www.flickr.com/photos/perrylens/3835038045/) my father gave me years ago: layered, intricate, complex - almost too complex at first glance, but surely sense can be made of it, with time, research, and perseverance.
@@ -35,8 +35,7 @@ Boy's Room | Changing
 
 
 To answer the remaining two questions: I'll start with a short blurb about me that I wrote to create my first repository on GitHub, entitled `hello-world`.
->I'm Chris. I'm dipping my toes into the world of GitHub and infosec. At the moment, I do not have any meaningful programming knowledge. This is all a bit daunting for me! I've always nourished a strong interest in the messy, huge world of information technology, and increasingly in information security, threats to its security, and the many, many facets that follow and intertwine.
-I'm a victim of too many interests and pursuits: cars (particularly the Volvo 240), bicycles, beer, hiking, reading, parenting, and general home handymanship, to name a few.
+>I'm Chris. I'm dipping my toes into the world of GitHub and infosec. At the moment, I do not have any meaningful programming knowledge. This is all a bit daunting for me! I've always nourished a strong interest in the messy, huge world of information technology. I've become increasingly interested in information security, threats to information security, and the many related topics that follow and intertwine. I'm a victim of too many interests and pursuits: cars (particularly the Volvo 240), bicycles, beer, hiking, reading, parenting, and general home handymanship, to name a few.
 
 A little more detail: my wife and I have two kids, who amaze me daily, and are complete goobers at all times. First and foremost, I'm a dad. My hobbies come second, and are hugely important to me. Cycling is a lifetime love of mine - I ride a hardtail mountain bike on singletrack trails around my home town, and when I don't feel like loading up the truck with a bike, I'll hop on my road bike and tour the pleasantly rustic back roads to the east of my house, directly accessible. I find the road riding is second to none in allowing me deep, sometimes therapeutic reflection. Another of my loves is gardening, as a supplement to our grocery purchases in the late spring and summer. Additionally, I delight in tinkering and cobbling, whether it's repairing a turntable or building a model airplane.
 
