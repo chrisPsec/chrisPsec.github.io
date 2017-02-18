@@ -10,14 +10,14 @@ I'll start with the engine. I'm somewhat of a car nut - my current project is a 
 That's what I'm wringing my hands about. I must remind myself that I'll get there, one task at a time, in spite of my current position as total newbie. With the completion of this entry, I think I can say I've learned Markdown (or at least utilized it successfully, if not to its full potential).  Next, I'll start digging more deeply into the [Atom](https://atom.io/) text editor, which I'm currently using to write. A close friend of mine has offered to recommend some packages and guide me through their potential uses, which I may play with in my next entry. Also worth noting is my usage of GitHub to host the text for these entries (I'm totally new to git and GitHub), and to build the site where they're published, via [GitHub Pages](https://pages.github.com). Neat stuff, markdown especially (I'm new to this, bear with me). Here's a table:
 
 ###### Tables in the Perry Household
-Room | Types of Tables |
------|------------|
-Dining room | Dining, Wash
-Living room | Coffee, End
-Family room | Entertainment, End
-Bedroom | Nightstand
-Girl's Room | Art
-Boy's Room | Changing
+|Room | Types of Tables |
+|-----|------------|
+|Dining room | Dining, Wash|
+|Living room | Coffee, End|
+|Family room | Entertainment, End|
+|Bedroom | Nightstand|
+|Girl's Room | Art|
+|Boy's Room | Changing|
 
 Here's how that looks in markdown, for posterity:
 
